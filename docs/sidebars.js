@@ -13,6 +13,7 @@ module.exports = {
       "guides/ha_notifications",
       "guides/stationary_objects",
       "guides/reverse_proxy",
+      "guides/motion_detection",
     ],
     Configuration: [
       "configuration/index",
